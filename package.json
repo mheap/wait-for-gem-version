@@ -1,0 +1,21 @@
+{
+  "name": "wait-for-gem-version",
+  "version": "1.0.0",
+  "description": "Wait for a specific version of a Ruby gem to be available on rubygems.org",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "rubygems",
+    "ruby"
+  ],
+  "author": "Michael Heap <m@michaelheap.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "node-fetch": "^2.6.0",
+    "yargs": "^15.4.1"
+  },
+  "bin": {
+    "wait-for-gem-version": "bin.js"
+  }
+}
