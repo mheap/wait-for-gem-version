@@ -1,6 +1,6 @@
 {
   "name": "wait-for-gem-version",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wait for a specific version of a Ruby gem to be available on rubygems.org",
   "main": "index.js",
   "scripts": {},
